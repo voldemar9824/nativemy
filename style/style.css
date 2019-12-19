@@ -1,6 +1,7 @@
 html
 {
-  background: url(file:///C:/Users/User/Desktop/NativeS/photo1.jpg);
+  background: url(https://res.cloudinary.com/teamtailor/image/upload/c_limit,f_auto,q_80,w_3000/v1576241271/uiqemsw5afypgqrziids.jpg);
+  background-size: cover;
 
 }
 
