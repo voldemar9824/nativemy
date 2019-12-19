@@ -1,3 +1,15 @@
+html
+{
+  background: url(file:///C:/Users/User/Desktop/NativeS/photo1.jpg);
+
+}
+
+
+.red {
+  color: white;
+  text-align: center;
+}
+
 p {
     color: red;
   }
